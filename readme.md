@@ -27,3 +27,20 @@ Add a connection to github
 ``` 
 git remote add origin https://github.com/reactivepixel/CmdLineDemo.git
 ``` 
+
+Push to github
+```
+git push origin master
+```
+
+## Branches
+
+Display all branches
+```
+git branch
+```
+
+Create a new branch
+```
+git checkout -b newbranch
+```
