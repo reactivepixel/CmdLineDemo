@@ -8,6 +8,7 @@ git init
 Whats going on?
 ```
 git status
+git branch
 ```
 
 Stage 1 file or all files
