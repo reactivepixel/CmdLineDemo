@@ -44,3 +44,8 @@ Create a new branch
 ```
 git checkout -b newbranch
 ```
+
+merging
+```
+git merge dev
+```
